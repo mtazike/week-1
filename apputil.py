@@ -17,6 +17,7 @@ else:
 
 
 
+
 #Assignment2
 def parentheses(sequence):                       # define a function
     counter = 0                                  # start counter at 0
